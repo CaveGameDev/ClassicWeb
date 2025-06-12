@@ -1,0 +1,19 @@
+{
+  "name": "browsercraft",
+  "version": "1.0.0",
+  "description": "Unmodified Minecraft running in the browser using CheerpJ",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "minecraft",
+    "cheerpj",
+    "browser"
+  ],
+  "author": "Leaning Technologies",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
